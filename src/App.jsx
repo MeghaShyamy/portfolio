@@ -8,7 +8,7 @@ import Language from './components/language/Language';
 import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
-import Certificates from './components/Certificates/certificates';
+import Certificates from './components/Certificates/Certificates';
 
 export default function App() {
   useEffect(()=>{
